@@ -20,10 +20,6 @@ body{
     background-color: lightcyan;
 }
 
-#abilities{
-    border-bottom: solid white 10px;
-}
-
 .outer-border{
     border: solid;
     padding: 10px;
