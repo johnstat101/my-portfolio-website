@@ -2,6 +2,7 @@ h1{
     text-align: center;
     color: white;
     background-color: green;
+    padding: 15px;
 }
 
 .img-1{
@@ -10,9 +11,11 @@ h1{
     margin: 10px;
     float: left;
 }
+
 body{
     background-color: lightcyan;
 }
+
 .outer-border{
     border: solid;
     padding: 10px;
