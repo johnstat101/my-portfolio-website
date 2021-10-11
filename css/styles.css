@@ -5,6 +5,10 @@ h1{
     padding: 15px;
 }
 
+h3{
+    /* background-color: white; */
+}
+
 .img-1{
     width: 280px;
     height: auto;
@@ -14,6 +18,10 @@ h1{
 
 body{
     background-color: lightcyan;
+}
+
+#abilities{
+    border-bottom: solid white 10px;
 }
 
 .outer-border{
