@@ -9,3 +9,11 @@ h1{
     height: auto;
     float: left;
 }
+body{
+    background-color: lightcyan;
+}
+.outer-border{
+    border: solid;
+    padding: 10px;
+    border-color: green;
+}
