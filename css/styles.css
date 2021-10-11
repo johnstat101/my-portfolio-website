@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+
+.img-1{
+    width: 280px;
+    height: auto;
+    float: left;
+}
