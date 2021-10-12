@@ -5,6 +5,7 @@ DESCRIPTION
 
 My-Portfolio-Website is a website that documents my personal profile including work experience, skills set and educational background
 
+website screenshot
 [portfolio.jpg {https://i.postimg.cc/k5MmtCbh/portfolio.png}](https://postimg.cc/sML8ttKp)
 
 TECHNOLOGIES USED

@@ -18,10 +18,15 @@ h3{
 
 body{
     background-color: lightcyan;
+    text-align: justify;
 }
 
 .outer-border{
     border: solid;
     padding: 10px;
     border-color: green;
+}
+
+@media screen {
+    
 }
